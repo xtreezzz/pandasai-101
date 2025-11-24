@@ -1,0 +1,7 @@
+category,region,amount,quantity
+A,North,100,10
+B,South,150,15
+A,North,120,12
+C,South,80,8
+B,East,200,20
+A,East,90,9
