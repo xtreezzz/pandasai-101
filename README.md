@@ -93,6 +93,7 @@
 ## 🔗 Полезные ссылки
 
 - [Документация PandasAI](https://docs.pandas-ai.com/)
+- Сравнение фреймворков https://ask-dashboard-benchmark.streamlit.app/
 - [GitHub PandasAI](https://github.com/gventuri/pandas-ai)
 
 ---
